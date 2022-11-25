@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning all the requisite skills to become a software developer
 - 🌱 I’m currently learning HTML, Java, CSS, JavaScript, and Python
 - 💞️ I’m looking to collaborate on web-based applications and beginner-level backend programs
-- 📫 How to reach me: feel free to send me an email at fitzgeraldcurran1@gmail.com
+- 📫 How to reach me: feel free to send me an email at currancodes@gmail.com
 
 <!---
 CurranTF/CurranTF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
