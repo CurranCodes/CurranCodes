@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CurranCodes a cs student based in Chicago, IL
+- 👋 Hi, I’m @CurranCodes an aspiring software developer based in Chicago, IL
 - 👀 I’m interested in learning all the requisite skills to become a software developer
-- 🌱 I’m currently learning HTML, Java, CSS, JavaScript, and Python
-- 💞️ I’m looking to collaborate on web-based applications and beginner-level backend programs
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on full-stack web-based applications 
 - 📫 Feel free to send me an email at currancodes@gmail.com
 
 <!---
