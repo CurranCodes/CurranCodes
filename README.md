@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CurranCodes an aspiring software developer based in Chicago, IL
+- 👋 Hi, I’m @CurranCodes, a freelance software developer based in Chicago, IL
 - 👀 I’m interested in learning modern frameworks and APIs to make scalable web applications
 - 🌱 I’m currently learning Django and React
 - 🤝 I’m looking to collaborate on full-stack web-based applications 
